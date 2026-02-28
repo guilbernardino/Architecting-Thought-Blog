@@ -19,7 +19,7 @@ markup:
 menu:
   main:
     - name: Newsletters
-      pageRef: /newsletters
+      pageRef: /docs
       weight: 1
     - name: Privacidade
       pageRef: /privacy
