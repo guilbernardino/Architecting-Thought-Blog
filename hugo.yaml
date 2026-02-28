@@ -19,7 +19,7 @@ markup:
 menu:
   main:
     - name: Insights
-      pageRef: /Insights
+      pageRef: /insights
       weight: 1
     - name: Privacidade
       pageRef: /privacy
