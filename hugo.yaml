@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: The Architecting Thought
 
 # import hextra as module
 module:
@@ -18,15 +18,15 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Newsletters
+      pageRef: /newsletters
       weight: 1
+    - name: Privacidade
+      pageRef: /privacy
+      weight: 3
     - name: Termos
       pageRef: /terms
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
-      weight: 3
 
 params:
   navbar:
